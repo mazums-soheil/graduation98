@@ -1,0 +1,20 @@
+{
+  "name": "MAZUMS Medical Graduation 2026",
+  "short_name": "MAZUMS 2026",
+  "description": "آیین دانش آموختگی پزشکی ورودی بهمن ۱۳۹۸",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#040608",
+  "theme_color": "#050708",
+  "icons": [
+    {
+      "src": "assets/mazums-logo-official-gold.svg?v=final_project",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "scope": "./",
+  "lang": "fa",
+  "dir": "rtl"
+}
